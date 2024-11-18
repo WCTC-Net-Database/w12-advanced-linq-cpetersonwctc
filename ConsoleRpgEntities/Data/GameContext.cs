@@ -79,3 +79,10 @@ namespace ConsoleRpgEntities.Data
 }
 
 
+
+
+//dotnet ef migrations add InitialCreate
+//dotnet ef database update
+//dotnet ef migrations remove
+//dotnet ef database update 0
+//dotnet ef database drop
